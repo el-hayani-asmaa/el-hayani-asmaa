@@ -2,7 +2,7 @@
 
 ### 🎓 Étudiante en Master SDSI (Data Science & Systèmes Intelligents) | Ingénieure Informatique
 
-Passionnée par l'Intelligence Artificielle, la Vision par Ordinateur et le Développement Web Full-Stack. 
+Passionnée par l'Intelligence Artificielle, l'analyse du data , et le Développement Web Full-Stack. 
 
 ---
 
