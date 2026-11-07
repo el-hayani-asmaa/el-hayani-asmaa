@@ -1,16 +1,27 @@
-## Hi there 👋
+# Bonjour, je suis Asmaa EL HAYANI 👋
 
-<!--
-**el-hayani-asmaa/el-hayani-asmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Étudiante en Master SDSI (Data Science & Systèmes Intelligents) | Ingénieure Informatique
 
-Here are some ideas to get you started:
+Passionnée par l'Intelligence Artificielle, la Vision par Ordinateur et le Développement Web Full-Stack. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Mes Projets Principaux
+
+*   **[Customer Personality Analysis](https://github.com/el-hayani-asmaa/costumer-personality-analysis)** : Projet de Machine Learning pour l'analyse du comportement client et la prédiction des réponses aux campagnes marketing (Python, Pandas, Scikit-learn).
+*   **[Merly Bloom](https://github.com/el-hayani-asmaa/merly-bloom)** : Application e-commerce de vente de fleurs (JavaScript, Cloud).
+*   **[Skoolution](https://github.com/el-hayani-asmaa/skoolution)** : Plateforme E-learning pour l'évaluation des lycéens (React, Next.js, Node.js, NestJS, MongoDB).
+
+---
+
+### 🛠️ Compétences Techniques
+*   **Data / IA :** Python, R, Machine Learning, Deep Learning, NLP, OpenCV, Pandas, Scikit-learn.
+*   **Web :** React.js, Next.js, Node.js, NestJS, Java (JEE), HTML/CSS.
+*   **Bases de données :** MongoDB, MySQL, Oracle.
+*   **Outils :** Git, Docker, Linux, UML.
+
+---
+
+### 📫 Me contacter
+*   **LinkedIn :** [Asmaa El Hayani](https://www.linkedin.com/in/asmaa-el-hayani-932b80440/)
+*   **Email :** asmaaelhayani313@gmail.com
